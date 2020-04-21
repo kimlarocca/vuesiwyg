@@ -1,7 +1,7 @@
 # vuesiwyg
 A tiny WYSIWYG vue component!
 
-![GitHub Logo](https://raw.githubusercontent.com/kimlarocca/vuesiwyg/master/screenshot.png)
+![vue wysiywg screenshot](https://raw.githubusercontent.com/kimlarocca/vuesiwyg/master/screenshot.png)
 
 ## usage
 `<vue-editor value="Your page content goes here!" v-model="content">`
