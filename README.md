@@ -10,4 +10,4 @@ A tiny WYSIWYG vue component!
 **value:** the default value for the wysiwyg (optional)
 
 ## dependencies
-None! The demo uses font awesome for the buttons, but feel free to substitute your own icon font.
+None! The demo uses font awesome free for the buttons, but feel free to substitute your own icon font.
